@@ -1,0 +1,15 @@
+Subject: Meeting Reminder - Project Update
+
+Body:
+Hey John,
+
+Just a reminder that we have our weekly project update meeting tomorrow at 10:00 AM.
+We'll be discussing the latest developments and reviewing pending tasks.
+
+Here’s the Zoom link for the call: zoom.us/meeting/12345
+
+Let me know if you need anything before the meeting.
+
+Best,
+Sarah
+
