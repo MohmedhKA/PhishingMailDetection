@@ -1,0 +1,18 @@
+From: hr@company.com
+To: employee@workmail.com
+Subject: Mandatory Employee Benefits Update – Action Required
+
+Body:
+
+Dear Employee,
+
+We are updating our employee benefits program effective April 1, 2025. This includes changes to healthcare coverage, retirement plans, and paid leave policies.
+
+To review the full details and acknowledge the changes, please visit the internal HR portal:
+
+https://companyhr.com/benefits-update
+
+This is a mandatory step to ensure compliance with our new policies.
+
+Best Regards,
+HR Department

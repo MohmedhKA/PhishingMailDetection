@@ -1,0 +1,22 @@
+From: it-security@university.edu
+To: professor@university.edu
+Subject: Action Required: Security Breach Detected on Your Account
+
+Body:
+
+Dear Professor [Last Name],
+
+IT Security has detected unauthorized login attempts on your university email from China and Russia. As part of our security measures, we have temporarily restricted access to your account.
+
+Login Attempt Details:
+Date: March 28, 2025
+Locations: Shanghai, Moscow
+
+To restore full access and prevent account suspension, please verify your identity using the official university security portal:
+
+https://university-secure.com/login
+
+Failure to complete verification within 12 hours will result in permanent account suspension.
+
+Regards,
+University IT Security Team

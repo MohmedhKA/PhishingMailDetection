@@ -1,0 +1,14 @@
+Subject: Urgent: Your Bank Account is Locked!
+
+Body:
+Dear Customer,
+
+We have detected unauthorized access to your account. To protect your funds, we have temporarily locked your account.
+
+To restore access, please verify your account immediately by clicking the link below:
+🔗 www.bank-security-verification.com
+
+Failure to do so within 24 hours will result in permanent account suspension.
+
+Best regards,
+Bank Security Team

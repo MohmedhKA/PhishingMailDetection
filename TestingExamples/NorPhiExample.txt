@@ -1,0 +1,15 @@
+Subject: Invoice Payment Confirmation Required
+
+Body:
+Dear Mr. Smith,
+
+Attached is the invoice for your recent order (Invoice #2378492).
+Please review the document and confirm payment at your earliest convenience.
+
+ Download Invoice: www.secure-billing-portal.com
+
+If you have any questions, feel free to reach out.
+
+Best regards,
+Finance Department
+[Company Name]
