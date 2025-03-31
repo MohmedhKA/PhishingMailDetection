@@ -1,0 +1,107 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #1e1e2e;
+  color: #e0e0e0;
+  width: 380px;
+  height: 500px;
+}
+
+.container {
+  padding: 16px;
+}
+
+h1 {
+  color: #e0e0e0;
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 24px;
+}
+
+.input-group {
+  margin-bottom: 15px;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: 500;
+  color: #c0c0c0;
+}
+
+input, textarea {
+  width: 100%;
+  padding: 10px;
+  border-radius: 6px;
+  border: 1px solid #444;
+  background-color: #2d2d3a;
+  color: #e0e0e0;
+  font-size: 14px;
+  box-sizing: border-box;
+}
+
+textarea {
+  height: 120px;
+  resize: vertical;
+}
+
+button {
+  width: 100%;
+  padding: 12px;
+  border: none;
+  border-radius: 6px;
+  background-color: #9370DB; /* Purple */
+  color: white;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  margin-top: 10px;
+}
+
+button:hover {
+  background-color: #8A2BE2; /* Darker purple on hover */
+}
+
+#result {
+  margin-top: 20px;
+  padding: 15px;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#resultText {
+  font-size: 20px;
+  font-weight: bold;
+  padding: 10px 20px;
+  border-radius: 6px;
+  text-align: center;
+  width: 80%;
+}
+
+.safe {
+  background-color: #3CB371; /* Green for safe */
+  color: white;
+}
+
+.phishing {
+  background-color: #DC143C; /* Red for phishing */
+  color: white;
+}
+
+.hidden {
+  display: none;
+}
+
+/* Animation for result appearance */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.animate {
+  animation: fadeIn 0.5s ease-out forwards;
+}
