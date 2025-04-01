@@ -1,18 +1,19 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Phishing Email Detector</title>
-  <link rel="stylesheet" href="popup.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gmail Phishing Detector</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="jquery.min.js"></script>
+    <script src="gmail.js"></script>
 </head>
 <body>
-  <div class="container">
-    <h1>Phishing Email Detector</h1>
-    <button id="checkCurrentEmail" type="button">Check this mail</button>
-    <div id="result" class="hidden">
-      <h2>Analysis Result:</h2>
-      <div id="resultText"></div>
-    </div>
-  </div>
-  <script src="popup.js"></script>
+    <h2>Gmail Phishing Detector</h2>
+    <button id="scanEmail" type="button">Scan Email</button>
+    <p id="result">Waiting for scan...</p>
+    <script src="popup.js"></script>
 </body>
 </html>
+
+
